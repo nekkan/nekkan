@@ -14,8 +14,8 @@
 [fossskywars]: https://github.com/nekkan/FossSkyWars
 [discordkt]: https://github.com/discordkt/discord.kt
 [discord]: https://img.shields.io/discord/633079419690418191?color=blue&label=discord%20server&logo=discord&logoColor=white&style=flat-square
-[profile]: https://github-readme-stats.vercel.app/api?username=nekkan&theme=dracula
-[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=nekkan&theme=dracula
+[profile]: https://github-readme-stats.vercel.app/api?username=nekkan&theme=highcontrast
+[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=nekkan&theme=highcontrast
 
 <!--
 **nekkan/nekkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
