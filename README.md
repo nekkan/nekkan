@@ -1,11 +1,11 @@
 ### Hi there 👋 ![discord]
 
-<center>
+
   Brazilian Kotlin developer focused on improving his own knowledge. 
   You can contact me by joining my Discord server on which there is a badge in the README.md title.
-  
+  <br/> <br/>
   ![profile] ![languages]
-</center>
+
 
 [discord]: https://img.shields.io/discord/633079419690418191?color=blue&label=discord%20server&logo=discord&logoColor=white&style=flat-square
 [profile]: https://github-readme-stats.vercel.app/api?username=nekkan
