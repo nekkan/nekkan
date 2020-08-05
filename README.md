@@ -2,11 +2,18 @@
 
 
   Brazilian Kotlin developer focused on improving his own knowledge. 
-  You can contact me by joining my Discord server on which there is a badge in the README.md title.
-  <br/> <br/>
+  
+  - 🔭 I’m currently working on [discord.kt](discordkt) and [FossSkyWars](fossskywars);
+  - 🌱 I’m currently learning about the [Minecraft Protocol](minecraftprotocol) and [Discord API](discordapi);
+  - 📫 How to reach me: By joining the Discord Server on which there is a badge in the title;
+  - 👯 I’m looking to collaborate on related projects.
+  
   ![profile] ![languages]
 
-
+[discordapi]: https://discord.dev
+[minecraftprotocol] https://wiki.vg
+[fossskywars]: https://github.com/nekkan/FossSkyWars
+[discordkt]: https://github.com/discordkt/discord.kt
 [discord]: https://img.shields.io/discord/633079419690418191?color=blue&label=discord%20server&logo=discord&logoColor=white&style=flat-square
 [profile]: https://github-readme-stats.vercel.app/api?username=nekkan
 [languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=nekkan
