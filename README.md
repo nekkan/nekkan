@@ -1,4 +1,4 @@
-### Hi there 👋 ![discord]
+### ![discord] Hi there 👋
 
   Brazilian Kotlin developer focused on improving his own knowledge. 
   
