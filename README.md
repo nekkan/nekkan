@@ -6,6 +6,12 @@
   Brazil and learning about the <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/144px-Rust_programming_language_black_logo.svg.png" width=14/>
   Rust language and how it works.
 
+
+  **How to reach me?**
+  * Direct messages on <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/98/Discord_logo.svg/603px-Discord_logo.svg.png" width=64/> Discord `nekkan#0001`;
+  * Direct messages on <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Twitter_logo.svg/469px-Twitter_logo.svg.png" width=64/> Twitter `@nekkan_`.
+
+
   **Working with**
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=nekkan&show_icons=true"/>
   <p/>
@@ -17,7 +23,3 @@
     <img alt="Bukkit" src="https://img.shields.io/badge/-Bukkit-f5716c?style=flat-square&logo=square&logoColor=white"/>
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-101010?style=flat-square&logo=github&logoColor=white"/>
   </p>
-
-  **How to reach me?**
-  * Direct messages on <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/98/Discord_logo.svg/603px-Discord_logo.svg.png" width=64/> Discord `nekkan#0001`;
-  * Direct messages on <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Twitter_logo.svg/469px-Twitter_logo.svg.png" width=64/> Twitter `@nekkan_`.
