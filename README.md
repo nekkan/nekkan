@@ -10,8 +10,8 @@
 
   **How to reach me?**
   
-  * Direct messages on <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/98/Discord_logo.svg/603px-Discord_logo.svg.png" width=64/> `nekkan#0001`;
-  * Direct messages on <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Twitter_logo.svg/469px-Twitter_logo.svg.png" width=64/> `@nekkan_`.
+  * <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/98/Discord_logo.svg/603px-Discord_logo.svg.png" width=72/> `nekkan#0001`;
+  * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Twitter_logo.svg/469px-Twitter_logo.svg.png" width=72/> `@nekkan_`.
 
 
   **Working with**
