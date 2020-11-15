@@ -25,4 +25,5 @@
     <img alt="Discord API" src="https://img.shields.io/badge/-Discord%20API-7289DA?style=flat-square&logo=discord&logoColor=white"/>
     <img alt="Bukkit" src="https://img.shields.io/badge/-Bukkit-f5716c?style=flat-square&logo=square&logoColor=white"/>
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-101010?style=flat-square&logo=github&logoColor=white"/>
+    <img alt="Rust" src="https://img.shields.io/badge/-Rust-303030?style=flat-square&logo=rust&logoColor=white"/>
   </p>
