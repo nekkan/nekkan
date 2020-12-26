@@ -10,4 +10,5 @@
     <img alt="Bukkit" src="https://img.shields.io/badge/-Bukkit-f5716c?style=flat-square&logo=square&logoColor=white"/>
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-101010?style=flat-square&logo=github&logoColor=white"/>
     <img alt="Rust" src="https://img.shields.io/badge/-Rust-303030?style=flat-square&logo=rust&logoColor=white"/>
+    <img alt="Java" src="https://img.shields.io/badge/-Java-E41C24?style=flat-square&logo=java&logoColor=white"/>
   </p>
