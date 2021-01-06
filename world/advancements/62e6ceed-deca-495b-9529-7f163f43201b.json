@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-01-06 01:24:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2021-01-06 00:32:55 +0000"
@@ -236,6 +242,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-01-06 00:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2021-01-06 01:08:35 +0000"
     },
     "done": true
   },
@@ -569,6 +581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2021-01-06 01:08:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2021-01-06 00:27:38 +0000",
@@ -577,6 +595,12 @@
       "minecraft:drowned": "2021-01-06 00:34:56 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-01-06 01:24:38 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
@@ -590,6 +614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2021-01-06 01:08:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-01-06 00:23:36 +0000"
@@ -599,6 +629,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2021-01-06 00:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2021-01-06 01:08:56 +0000"
     },
     "done": true
   },
@@ -623,6 +659,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2021-01-06 00:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2021-01-06 01:08:35 +0000"
     },
     "done": true
   },
@@ -665,6 +707,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2021-01-06 00:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2021-01-06 01:08:30 +0000"
     },
     "done": true
   },
@@ -920,6 +968,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2021-01-06 01:17:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2021-01-05 23:58:50 +0000"
@@ -1056,6 +1110,7 @@
     "criteria": {
       "minecraft:taiga": "2021-01-05 23:57:12 +0000",
       "minecraft:desert": "2021-01-06 00:02:17 +0000",
+      "minecraft:warm_ocean": "2021-01-06 01:18:01 +0000",
       "minecraft:savanna_plateau": "2021-01-06 00:13:32 +0000",
       "minecraft:beach": "2021-01-06 00:11:47 +0000",
       "minecraft:river": "2021-01-06 00:05:37 +0000",
@@ -1104,6 +1159,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2021-01-06 00:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2021-01-06 01:08:35 +0000"
     },
     "done": true
   },
@@ -1190,6 +1251,12 @@
       "has_planks": "2021-01-06 00:50:34 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2021-01-06 01:24:39 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
