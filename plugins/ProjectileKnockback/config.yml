@@ -21,4 +21,4 @@ unknown-action: &c Uknown action. Type /pkb help for help.
 cross-world: true
 # If you have set the option above to false, then select the worlds you would like here:
 worlds-enabled: []
-updater: true
+updater: false
