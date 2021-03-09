@@ -1,48 +1,134 @@
-[08:03:36] [main/ERROR]: Failed to load properties from file: server.properties
-[08:03:36] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[08:03:36] [main/INFO]: Found new data pack file/bukkit, loading it automatically
-[08:03:37] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[08:03:38] [Worker-Main-2/INFO]: Loaded 7 recipes
-[08:03:40] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[08:03:40] [Server thread/INFO]: Loading properties
-[08:03:40] [Server thread/INFO]: This server is running Paper version git-Paper-534 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[08:03:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[08:03:41] [Server thread/INFO]: Using 4 threads for Netty based IO
-[08:03:41] [Server thread/INFO]: Debug logging is disabled
-[08:03:41] [Server thread/INFO]: Default game type: SURVIVAL
-[08:03:41] [Server thread/INFO]: Generating keypair
-[08:03:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:03:41] [Server thread/INFO]: Using epoll channel type
-[08:03:42] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[08:03:49] [Server thread/WARN]: Legacy plugin Ping v1.0 does not specify an api-version.
-[08:03:49] [Server thread/INFO]: [Ping] Loading Ping v1.0
-[08:03:49] [Server thread/INFO]: Preparing level "world"
-[08:03:56] [Server thread/WARN]: Unable to find spawn biome
-[08:03:59] [Server thread/WARN]: Unable to find spawn biome
-[08:04:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:04:00] [Server thread/INFO]: Loaded 0 spawn chunks for world world
-[08:04:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:04:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:04:00] [Server thread/INFO]: Time elapsed: 655 ms
-[08:04:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[08:04:01] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
-[08:04:01] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[08:04:01] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[08:04:01] [Server thread/INFO]: Time elapsed: 912 ms
-[08:04:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[08:04:02] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
-[08:04:02] [Server thread/INFO]: Time elapsed: 1117 ms
-[08:04:02] [Server thread/INFO]: [Ping] Enabling Ping v1.0*
-[08:04:02] [Server thread/INFO]: Plugin de Ping creado por GokuGamerHD activado
-[08:04:02] [Server thread/INFO]: Config of the plugin Ping loaded!
-[08:04:03] [Server thread/INFO]: Running delayed init tasks
-[08:04:03] [Server thread/INFO]: Done (22.298s)! For help, type "help"
-[08:04:03] [Server thread/INFO]: Timings Reset
-[08:04:17] [Server thread/INFO]: Stopping the server
-[08:04:17] [Server thread/INFO]: Stopping server
-[08:04:17] [Server thread/INFO]: [Ping] Disabling Ping v1.0
-[08:04:17] [Server thread/INFO]: Plugin de AlertPing creado por GokuGamerHD desactivado
-[08:04:17] [Server thread/INFO]: Saving players
-[08:04:17] [Server thread/INFO]: Saving worlds
-[08:04:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08:04:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:10:14] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08:10:14] [main/INFO]: Found new data pack file/bukkit, loading it automatically
+[08:10:15] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[08:10:16] [Worker-Main-1/INFO]: Loaded 7 recipes
+[08:10:18] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[08:10:18] [Server thread/INFO]: Loading properties
+[08:10:18] [Server thread/INFO]: This server is running Paper version git-Paper-534 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[08:10:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:10:18] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:10:18] [Server thread/INFO]: Debug logging is disabled
+[08:10:18] [Server thread/INFO]: Default game type: SURVIVAL
+[08:10:18] [Server thread/INFO]: Generating keypair
+[08:10:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:10:19] [Server thread/INFO]: Using epoll channel type
+[08:10:20] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[08:10:27] [Server thread/WARN]: Legacy plugin Ping v1.0 does not specify an api-version.
+[08:10:27] [Server thread/INFO]: [Ping] Loading Ping v1.0
+[08:10:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:10:27] [Server thread/INFO]: Preparing level "world"
+[08:10:32] [Server thread/WARN]: Unable to find spawn biome
+[08:10:34] [Server thread/WARN]: Unable to find spawn biome
+[08:10:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:10:35] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[08:10:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[08:10:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:10:35] [Server thread/INFO]: Time elapsed: 559 ms
+[08:10:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[08:10:36] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[08:10:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[08:10:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[08:10:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:10:36] [Server thread/INFO]: Time elapsed: 1099 ms
+[08:10:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[08:10:37] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[08:10:37] [Server thread/INFO]: Time elapsed: 712 ms
+[08:10:37] [Server thread/INFO]: [Ping] Enabling Ping v1.0*
+[08:10:37] [Server thread/INFO]: Plugin de Ping creado por GokuGamerHD activado
+[08:10:37] [Server thread/INFO]: Config of the plugin Ping created!
+[08:10:37] [Server thread/INFO]: Running delayed init tasks
+[08:10:37] [Server thread/INFO]: Done (19.448s)! For help, type "help"
+[08:10:37] [Server thread/INFO]: Timings Reset
+[08:12:51] [User Authenticator #1/INFO]: UUID of player nekkan is b6bde4e3-2d36-441e-a915-ef0c2cef1e0e
+[08:12:51] [Server thread/INFO]: nekkan joined the game
+[08:12:51] [Server thread/INFO]: nekkan[/127.0.0.1:46108] logged in with entity id 563 at ([world]-35.5, 63.0, -12.5)
+[08:13:13] [Server thread/INFO]: nekkan issued server command: /ping
+[08:13:14] [Server thread/INFO]: nekkan issued server command: /ping
+[08:13:17] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[08:13:18] [Server thread/INFO]: Made nekkan a server operator
+[08:13:20] [Server thread/INFO]: nekkan issued server command: /ping
+[08:13:22] [Server thread/INFO]: nekkan issued server command: /ping
+[08:13:22] [Server thread/INFO]: nekkan issued server command: /ping
+[08:13:24] [Server thread/INFO]: nekkan issued server command: /ping
+[08:13:25] [Server thread/INFO]: nekkan issued server command: /ping
+[08:13:27] [Server thread/INFO]: nekkan issued server command: /ping
+[08:14:00] [Server thread/INFO]: nekkan issued server command: /ping
+[08:14:52] [Server thread/INFO]: nekkan issued server command: /ping
+[08:15:15] [Async Chat Thread - #0/INFO]: <nekkan> awa
+[08:15:17] [Server thread/INFO]: nekkan issued server command: /ping
+[08:15:19] [Server thread/INFO]: nekkan issued server command: /ping
+[08:15:53] [Async Chat Thread - #0/INFO]: <nekkan> a
+[08:15:54] [Server thread/INFO]: nekkan issued server command: /ping
+[08:16:01] [Server thread/INFO]: nekkan issued server command: /ping
+[08:16:03] [Server thread/INFO]: nekkan lost connection: Disconnected
+[08:16:03] [Server thread/INFO]: nekkan left the game
+[08:16:07] [User Authenticator #2/INFO]: UUID of player nekkan is b6bde4e3-2d36-441e-a915-ef0c2cef1e0e
+[08:16:07] [Server thread/INFO]: nekkan joined the game
+[08:16:07] [Server thread/INFO]: nekkan[/127.0.0.1:46534] logged in with entity id 1358 at ([world]-21.82284055565608, 67.0, -36.411393200151934)
+[08:17:01] [Server thread/INFO]: nekkan lost connection: Disconnected
+[08:17:01] [Server thread/INFO]: nekkan left the game
+[08:26:23] [User Authenticator #3/INFO]: UUID of player nekkan is b6bde4e3-2d36-441e-a915-ef0c2cef1e0e
+[08:26:23] [Server thread/INFO]: nekkan joined the game
+[08:26:23] [Server thread/INFO]: nekkan[/127.0.0.1:46712] logged in with entity id 1518 at ([world]-30.367562446971895, 69.0, -31.922710107743445)
+[08:27:49] [Server thread/INFO]: nekkan lost connection: Disconnected
+[08:27:49] [Server thread/INFO]: nekkan left the game
+[08:27:52] [User Authenticator #4/INFO]: UUID of player nekkan is b6bde4e3-2d36-441e-a915-ef0c2cef1e0e
+[08:27:52] [Server thread/INFO]: nekkan joined the game
+[08:27:52] [Server thread/INFO]: nekkan[/127.0.0.1:46750] logged in with entity id 1684 at ([world]-30.367562446971895, 69.0, -31.922710107743445)
+[08:27:54] [Server thread/INFO]: nekkan lost connection: Disconnected
+[08:27:54] [Server thread/INFO]: nekkan left the game
+[08:33:31] [User Authenticator #5/INFO]: UUID of player nekkan is b6bde4e3-2d36-441e-a915-ef0c2cef1e0e
+[08:33:31] [Server thread/INFO]: nekkan joined the game
+[08:33:32] [Server thread/INFO]: nekkan[/127.0.0.1:46846] logged in with entity id 1690 at ([world]-30.367562446971895, 69.0, -31.922710107743445)
+[08:33:38] [Server thread/INFO]: nekkan lost connection: Disconnected
+[08:33:38] [Server thread/INFO]: nekkan left the game
+[08:35:28] [User Authenticator #6/INFO]: UUID of player nekkan is b6bde4e3-2d36-441e-a915-ef0c2cef1e0e
+[08:35:28] [Server thread/INFO]: nekkan joined the game
+[08:35:29] [Server thread/INFO]: nekkan[/127.0.0.1:46888] logged in with entity id 1711 at ([world]-29.126761680578348, 69.0, -31.565732590373393)
+[08:35:31] [Server thread/INFO]: nekkan lost connection: Disconnected
+[08:35:31] [Server thread/INFO]: nekkan left the game
+[08:38:36] [User Authenticator #7/INFO]: UUID of player nekkan is b6bde4e3-2d36-441e-a915-ef0c2cef1e0e
+[08:38:36] [Server thread/INFO]: nekkan joined the game
+[08:38:36] [Server thread/INFO]: nekkan[/127.0.0.1:46942] logged in with entity id 1719 at ([world]-29.126761680578348, 69.0, -31.565732590373393)
+[08:39:20] [Server thread/INFO]: nekkan issued server command: /ping
+[08:39:27] [Server thread/INFO]: nekkan has made the advancement [Monster Hunter]
+[08:39:29] [Server thread/INFO]: nekkan issued server command: /ping
+[08:39:30] [Server thread/INFO]: nekkan issued server command: /ping
+[08:39:36] [Server thread/INFO]: nekkan issued server command: /ping
+[08:39:37] [Server thread/INFO]: nekkan issued server command: /ping
+[08:39:38] [Server thread/INFO]: nekkan issued server command: /ping
+[08:39:39] [Server thread/INFO]: nekkan issued server command: /ping
+[08:39:40] [Server thread/INFO]: nekkan issued server command: /ping
+[08:39:42] [Server thread/INFO]: nekkan issued server command: /ping
+[08:39:43] [Server thread/INFO]: nekkan issued server command: /ping
+[08:39:44] [Server thread/INFO]: nekkan issued server command: /ping
+[08:39:45] [Server thread/INFO]: nekkan issued server command: /ping
+[08:39:47] [Server thread/INFO]: nekkan issued server command: /ping
+[08:39:48] [Server thread/INFO]: nekkan issued server command: /ping
+[08:39:49] [Server thread/INFO]: nekkan issued server command: /ping
+[08:39:53] [Server thread/INFO]: nekkan issued server command: /ping
+[08:39:54] [Server thread/INFO]: nekkan issued server command: /ping
+[08:40:06] [Server thread/INFO]: nekkan issued server command: /ping
+[08:40:07] [Server thread/INFO]: nekkan issued server command: /ping
+[08:40:09] [Server thread/INFO]: nekkan issued server command: /ping
+[08:40:13] [Server thread/INFO]: nekkan issued server command: /ping
+[08:40:36] [Server thread/INFO]: nekkan lost connection: Disconnected
+[08:40:36] [Server thread/INFO]: nekkan left the game
+[08:40:41] [Server thread/INFO]: Stopping the server
+[08:40:41] [Server thread/INFO]: Stopping server
+[08:40:41] [Server thread/INFO]: [Ping] Disabling Ping v1.0
+[08:40:41] [Server thread/INFO]: Plugin de AlertPing creado por GokuGamerHD desactivado
+[08:40:41] [Server thread/INFO]: Saving players
+[08:40:41] [Server thread/INFO]: Saving worlds
+[08:40:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:40:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:40:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[08:40:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:40:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[08:40:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:40:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:40:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:40:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:40:43] [Server thread/INFO]: Flushing Chunk IO
+[08:40:43] [Server thread/INFO]: Closing Thread Pool
+[08:40:43] [Server thread/INFO]: Closing Server
