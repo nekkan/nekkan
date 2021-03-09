@@ -1,0 +1,48 @@
+[08:03:36] [main/ERROR]: Failed to load properties from file: server.properties
+[08:03:36] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08:03:36] [main/INFO]: Found new data pack file/bukkit, loading it automatically
+[08:03:37] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[08:03:38] [Worker-Main-2/INFO]: Loaded 7 recipes
+[08:03:40] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[08:03:40] [Server thread/INFO]: Loading properties
+[08:03:40] [Server thread/INFO]: This server is running Paper version git-Paper-534 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[08:03:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:03:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:03:41] [Server thread/INFO]: Debug logging is disabled
+[08:03:41] [Server thread/INFO]: Default game type: SURVIVAL
+[08:03:41] [Server thread/INFO]: Generating keypair
+[08:03:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:03:41] [Server thread/INFO]: Using epoll channel type
+[08:03:42] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[08:03:49] [Server thread/WARN]: Legacy plugin Ping v1.0 does not specify an api-version.
+[08:03:49] [Server thread/INFO]: [Ping] Loading Ping v1.0
+[08:03:49] [Server thread/INFO]: Preparing level "world"
+[08:03:56] [Server thread/WARN]: Unable to find spawn biome
+[08:03:59] [Server thread/WARN]: Unable to find spawn biome
+[08:04:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:04:00] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[08:04:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[08:04:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[08:04:00] [Server thread/INFO]: Time elapsed: 655 ms
+[08:04:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[08:04:01] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[08:04:01] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[08:04:01] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[08:04:01] [Server thread/INFO]: Time elapsed: 912 ms
+[08:04:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[08:04:02] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[08:04:02] [Server thread/INFO]: Time elapsed: 1117 ms
+[08:04:02] [Server thread/INFO]: [Ping] Enabling Ping v1.0*
+[08:04:02] [Server thread/INFO]: Plugin de Ping creado por GokuGamerHD activado
+[08:04:02] [Server thread/INFO]: Config of the plugin Ping loaded!
+[08:04:03] [Server thread/INFO]: Running delayed init tasks
+[08:04:03] [Server thread/INFO]: Done (22.298s)! For help, type "help"
+[08:04:03] [Server thread/INFO]: Timings Reset
+[08:04:17] [Server thread/INFO]: Stopping the server
+[08:04:17] [Server thread/INFO]: Stopping server
+[08:04:17] [Server thread/INFO]: [Ping] Disabling Ping v1.0
+[08:04:17] [Server thread/INFO]: Plugin de AlertPing creado por GokuGamerHD desactivado
+[08:04:17] [Server thread/INFO]: Saving players
+[08:04:17] [Server thread/INFO]: Saving worlds
+[08:04:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:04:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
